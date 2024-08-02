@@ -1,0 +1,26 @@
+body{
+    background-color: aliceblue;
+    margin: 200px 500px 500px 200px;
+}
+.box{
+    background-color: #ffff;
+    display: grid;
+    place-content: center;
+    height:fit-content;
+    width: fit-content;
+    
+}
+.container{
+    padding: 20px;
+    text-align: center;
+}
+h1{
+    font-size: 35px;
+    font-weight: 700;
+}
+p{
+    font-size: 15px;
+}
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
